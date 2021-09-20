@@ -13,8 +13,10 @@ Input for the comp will be 3 numbers. Numbers will always add up to either 10 or
 
 Number of Troops
 -------------------
-The number of troops you are sending in thousands. E.g if sending 200k just type 200, no "k". Added letter will crash the program. Yes I'm lazy
+The number of troops you are sending in thousands. E.g if sending 200k just type 200, no "k". Added letter will crash the program. Yes I'm lazy. 
+If you dont put anything in and just hit enter it will assume 200k.
 
 Percentage of T5
 -------------------
-When entering the percentage dont put "%" at the end, just the number will do. Send 60% minimum or you're a bitch. Dunno what happens if you put 0%, never tried
+When entering the percentage dont put "%" at the end, just the number will do. Send 60% minimum or you're a bitch. Dunno what happens if you put 0%, never tried.
+If you dont put a number and just hit enter it will assume 60%
